@@ -1,5 +1,5 @@
 {
-  "name": "grunt appolo compress",
+  "name": "grunt-appolo-compress",
   "description": "compress and minify js and css files",
   "version": "0.1.0",
   "homepage": "",
